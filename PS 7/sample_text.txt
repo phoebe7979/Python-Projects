@@ -1,0 +1,11 @@
+this is a file with a lot of contents in it
+it also has multiple lines but there are some words that are more common than others
+i mean, extremely common really very common words
+obviously there is a reason for certain structures here for your python practice
+purposes
+but some words are more common than others in most documents
+common common common common_word
+that last is more like a variable than a normal english word for example but python will still count it as a common word or an uncommon word the way we count
+definitely some words are more common than other ones are
+there exist files that will be more common and more interesting than this one
+but this will serve for regular ol' common file practice 
